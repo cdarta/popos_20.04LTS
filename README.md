@@ -2,6 +2,11 @@
 settings for popos
 Gnome v. 3.36.8
 
+## Table of Contents 
+
+- [Mouse Logitech M720 Triathlon - Settings](#mouse-logitech-m720-triathlon---settings)
+
+___
 
 ### Mouse Logitech M720 Triathlon - Settings
 #### Binding Buttons easy way with "Input Remapper"
@@ -44,3 +49,7 @@ Gnome v. 3.36.8
 #### Alternatives 
 [ref](https://www.medo64.com/2019/03/configuring-thumb-button-on-m720-under-ubuntu/)   
 ```gsettings set org.gnome.desktop.wm.keybindings minimize "['<Primary><Alt>Tab']" ```
+  
+___
+  
+  
