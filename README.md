@@ -8,6 +8,10 @@ Gnome v. 3.36.8
 
 ___
 
+### Programms
+#### Creating Animated GIFs out of recordings
+sudo apt install peek
+
 ### Mouse Logitech M720 Triathlon - Settings
 #### Binding Buttons easy way with "Input Remapper"
   https://github.com/sezanzeb/input-remapper  
